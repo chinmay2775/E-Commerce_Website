@@ -20,7 +20,7 @@
       
       Run Backend Separately
       
-      Open backend folder in VS Code
+      Open backend folder in intergrated VS Code terminal
       
       Configure application.properties
       
