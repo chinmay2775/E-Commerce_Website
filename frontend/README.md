@@ -1,6 +1,9 @@
-# React + Vite
+
+# Steps to Run the Frontend
 
 🧩 Step 1: Install Node.js
+
+Open Frontend folder in integrated VS Code terminal
 
 Download and install Node.js (v18 or above)
 
