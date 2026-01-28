@@ -99,8 +99,11 @@ Features
       Database support (MySQL / MongoDB)
       
       Payment gateway integration
+
+🧪 Tools & Utilities
+
+      Postman – API testing
       
-      Order history & user profile
-
-
-
+      Maven – Dependency management
+      
+      pgAdmin 4 – Database design & queries
