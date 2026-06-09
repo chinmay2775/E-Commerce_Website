@@ -53,7 +53,7 @@ Features
     
       Git & GitHub – Version control
       
-      VS Code – Development environment
+      Intellij IDEA – Development environment
 
 
 🔐 Backend Tech Stack
@@ -92,11 +92,11 @@ Features
 
 🚀 Future Enhancements
 
-      Backend integration (Node.js / Spring Boot)
+      Backend integration (Spring Boot)
       
       User authentication (Login / Signup)
       
-      Database support (MySQL / MongoDB)
+      Database support (MongoDB)
       
       Payment gateway integration
 
