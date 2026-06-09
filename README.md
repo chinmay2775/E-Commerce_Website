@@ -91,8 +91,6 @@ Features
       User data (future scope)
 
 🚀 Future Enhancements
-
-      Backend integration (Spring Boot)
       
       User authentication (Login / Signup)
       
