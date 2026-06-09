@@ -18,7 +18,7 @@
 
 ⚙️ Backend (Spring Boot + PostgreSQL)
       
-      Run Backend Separately
+      Run Backend Separately (VS Code)
       
       Open backend folder in intergrated VS Code terminal
       
